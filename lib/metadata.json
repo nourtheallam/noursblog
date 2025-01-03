@@ -1,0 +1,2422 @@
+{
+  "vaultName": "Obsidian Vault",
+  "lastExport": 1735927438638,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Algorithms II Algorithms/Alternating BFS.md",
+    "Algorithms II Algorithms/Bipartite Maximum-Cardinality Matching.md",
+    "Algorithms II Algorithms/Bipartite Maximum-Weight Matching.md",
+    "Algorithms II Algorithms/Bipartite Minimum-Weight Perfect Matching LP.md",
+    "Algorithms II Algorithms/Cluster Editing Branching.md",
+    "Algorithms II Algorithms/Cluster Editing Reduction.md",
+    "Algorithms II Algorithms/Crown Reduction.md",
+    "Algorithms II Algorithms/Edmonds-Karp.md",
+    "Algorithms II Algorithms/Edmonds's Algorithm.md",
+    "Algorithms II Algorithms/Ford-Fulkerson.md",
+    "Algorithms II Algorithms/General Maximum-Cardinality Matching.md",
+    "Algorithms II Algorithms/MAX-SAT Randomized Rounding.md",
+    "Algorithms II Algorithms/Maximal matching.md",
+    "Algorithms II Algorithms/Maximum Independent Set Branching.md",
+    "Algorithms II Algorithms/Preflow-Push.md",
+    "Algorithms II Algorithms/Set Cover Dual Fitting.md",
+    "Algorithms II Algorithms/Set Cover Greedy.md",
+    "Algorithms II Algorithms/Simplex.md",
+    "Algorithms II Algorithms/Steiner Tree DP.md",
+    "Algorithms II Algorithms/Steiner Tree Simple.md",
+    "Algorithms II Algorithms/The Hungarian Algorithm.md",
+    "Algorithms II Algorithms/Travelling Salesman Dynamic Programming.md",
+    "Algorithms II Algorithms/Vertex Cover 2-Approximation.md",
+    "Algorithms II Algorithms/Vertex Cover Branching.md",
+    "Algorithms II Algorithms/Vertex Cover Branching Better.md",
+    "Algorithms II Algorithms/Vertex Cover Crown Reduction.md",
+    "Algorithms II Algorithms/Vertex Cover Exponential.md",
+    "Algorithms II Algorithms/Vertex Cover Reduction.md",
+    "Algorithms II Assignments/Assignment 1 Summative.md",
+    "Algorithms II Assignments/Assignment 3 Summative.md",
+    "Algorithms II Assignments/Assignment 4 Summative.md",
+    "Algorithms II Assignments/Assignment 6 Summative.md",
+    "Algorithms II Assignments/Assignment 7 Summative.md",
+    "Algorithms II Concepts/Alternating Forest.md",
+    "Algorithms II Concepts/Approximation.md",
+    "Algorithms II Concepts/Augmenting Path.md",
+    "Algorithms II Concepts/Basic Feasible Solution.md",
+    "Algorithms II Concepts/Bipartite.md",
+    "Algorithms II Concepts/Branching.md",
+    "Algorithms II Concepts/Branching number.md",
+    "Algorithms II Concepts/Branching vector.md",
+    "Algorithms II Concepts/Canonical form.md",
+    "Algorithms II Concepts/Clique.md",
+    "Algorithms II Concepts/Cluster Editing.md",
+    "Algorithms II Concepts/Combining Recursive Calls.md",
+    "Algorithms II Concepts/Complementary Slackness.md",
+    "Algorithms II Concepts/Complete Bipartite Graph.md",
+    "Algorithms II Concepts/Crown.md",
+    "Algorithms II Concepts/Depth-Bounded Search.md",
+    "Algorithms II Concepts/Derandomization.md",
+    "Algorithms II Concepts/Dual.md",
+    "Algorithms II Concepts/Dual Fitting.md",
+    "Algorithms II Concepts/Dynamic Programming.md",
+    "Algorithms II Concepts/Exponential.md",
+    "Algorithms II Concepts/Extreme Point Solution.md",
+    "Algorithms II Concepts/Family of Tight Inputs.md",
+    "Algorithms II Concepts/FPT.md",
+    "Algorithms II Concepts/Half-integrality.md",
+    "Algorithms II Concepts/Hardness parameter.md",
+    "Algorithms II Concepts/Kernelization.md",
+    "Algorithms II Concepts/Layering.md",
+    "Algorithms II Concepts/Matching.md",
+    "Algorithms II Concepts/Max-flow Min-cut.md",
+    "Algorithms II Concepts/Maxflow Procedure.md",
+    "Algorithms II Concepts/Minimum st-Cut.md",
+    "Algorithms II Concepts/Multiway Vertex Cut.md",
+    "Algorithms II Concepts/Multiway Vertex Cut Half-Integrality.md",
+    "Algorithms II Concepts/NP-Hard.md",
+    "Algorithms II Concepts/Parametrized.md",
+    "Algorithms II Concepts/Perfect matching.md",
+    "Algorithms II Concepts/Primal-Dual Schema.md",
+    "Algorithms II Concepts/Problem kernel.md",
+    "Algorithms II Concepts/Randomization.md",
+    "Algorithms II Concepts/Randomized Rounding.md",
+    "Algorithms II Concepts/Reduction rule.md",
+    "Algorithms II Concepts/Relaxed Complementary Slackness.md",
+    "Algorithms II Concepts/Residual Capacity.md",
+    "Algorithms II Concepts/Residual Network.md",
+    "Algorithms II Concepts/Set Cover.md",
+    "Algorithms II Concepts/Standard form.md",
+    "Algorithms II Concepts/Steiner Tree.md",
+    "Algorithms II Concepts/Strong Duality.md",
+    "Algorithms II Concepts/Vertex Cover.md",
+    "Algorithms II Concepts/Vertex Cover Half-Integrality.md",
+    "Algorithms II Concepts/Weak Duality.md",
+    "Images/IMG_5ECF6969EE00-1.jpeg",
+    "Images/IMG_3645B157588F-1.jpeg",
+    "Images/IMG_E8D9965B2C9E-1.jpeg",
+    "Images/Pasted image 20240920152734.png",
+    "Images/Pasted image 20240920165444.png",
+    "Images/Pasted image 20240920165511.png",
+    "Images/Pasted image 20240920182631.png",
+    "Images/Pasted image 20240921143618.png",
+    "Images/Pasted image 20240921143733.png",
+    "Images/Pasted image 20240921145420.png",
+    "Images/Pasted image 20240921145551.png",
+    "Images/Pasted image 20240921151324.png",
+    "Images/Pasted image 20240921151427.png",
+    "Images/Pasted image 20240921153850.png",
+    "Images/Pasted image 20240921154432.png",
+    "Images/Pasted image 20240921155020.png",
+    "Images/Pasted image 20240921160750.png",
+    "Images/Pasted image 20240921160817.png",
+    "Images/Pasted image 20240922173845.png",
+    "Images/Pasted image 20240922174200.png",
+    "Images/Pasted image 20240922174946.png",
+    "Images/Pasted image 20240922175133.png",
+    "Images/Pasted image 20240922175242.png",
+    "Images/Pasted image 20240922175648.png",
+    "Images/Pasted image 20240922175901.png",
+    "Images/Pasted image 20241004153707.png",
+    "Images/Pasted image 20241004153732.png",
+    "Images/Pasted image 20241004153805.png",
+    "Images/Pasted image 20241004153821.png",
+    "Images/Pasted image 20241004153845.png",
+    "Images/Pasted image 20241008230303.png",
+    "Images/Pasted image 20241008230608.png",
+    "Images/Pasted image 20241008232152.png",
+    "Images/Pasted image 20241013120544.png",
+    "Images/Pasted image 20241021231104.png",
+    "Images/Pasted image 20241206191101.png",
+    "Images/Pasted image 20241206192136.png",
+    "Images/Pasted image 20241206194329.png",
+    "Images/Pasted image 20241206194423.png",
+    "Images/Pasted image 20241206194440.png",
+    "Images/Pasted image 20241207200219.png",
+    "Images/Pasted image 20241207200356.png",
+    "Images/Pasted image 20241207200401.png",
+    "Images/Pasted image 20241207200603.png",
+    "Images/Pasted image 20241208154017.png",
+    "Images/Pasted image 20241208172806.png",
+    "Images/Pasted image 20241209162211.png",
+    "Images/Pasted image 20241209172943.png",
+    "Images/Pasted image 20241209172948.png",
+    "Images/Pasted image 20241209173032.png",
+    "Images/Pasted image 20241209210436.png",
+    "Images/Pasted image 20241209210504.png",
+    "Images/Pasted image 20241209210522.png",
+    "Images/Pasted image 20241211133453.png",
+    "Images/Pasted image 20241211134058.png",
+    "Images/Pasted image 20241211134346.png",
+    "Images/Pasted image 20241211134858.png",
+    "Images/Pasted image 20241211135331.png",
+    "Images/Pasted image 20241211135347.png",
+    "Images/Pasted image 20241211135402.png",
+    "Images/Pasted image 20241211140123.png",
+    "Images/Pasted image 20241211220741.png",
+    "Images/Pasted image 20241211220752.png",
+    "Images/Pasted image 20241212120634.png",
+    "Images/Pasted image 20241212120835.png",
+    "Images/Pasted image 20241212124614.png",
+    "Images/Pasted image 20241212151117.png",
+    "Images/Pasted image 20241212214719.png",
+    "Images/Pasted image 20241212214736.png",
+    "Images/Pasted image 20241212214748.png",
+    "Images/Pasted image 20241213000036.png",
+    "Images/Pasted image 20241213000055.png",
+    "Images/Pasted image 20241213000119.png",
+    "Images/Pasted image 20241213130400.png",
+    "Images/Pasted image 20241213130413.png",
+    "Images/Pasted image 20241213131832.png",
+    "Images/Pasted image 20241213131850.png",
+    "Images/Pasted image 20241213145245.png",
+    "Images/Pasted image 20241213201433.png",
+    "Images/Pasted image 20241213211133.png",
+    "Images/Pasted image 20241214132714.png",
+    "Images/Pasted image 20241214132719.png",
+    "Images/Pasted image 20241214132737.png",
+    "Images/Pasted image 20241214132805.png",
+    "Images/Pasted image 20241214142705.png",
+    "Images/Pasted image 20241214150115.png",
+    "Images/Pasted image 20241214150132.png",
+    "Images/Pasted image 20241214150308.png",
+    "Images/Pasted image 20241214152505.png",
+    "Images/Pasted image 20241214154745.png",
+    "Images/Pasted image 20241214170111.png",
+    "Images/Pasted image 20241214170428.png",
+    "Images/Pasted image 20241214170457.png",
+    "Images/Pasted image 20241214171608.png",
+    "Images/Pasted image 20241214171632.png",
+    "Images/Pasted image 20241214190430.png",
+    "Images/Pasted image 20241214212900.png",
+    "Images/Pasted image 20241214220431.png",
+    "Images/Pasted image 20241215013755.png",
+    "Images/Pasted image 20241215133255.png",
+    "Images/Pasted image 20241215140330.png",
+    "Images/Pasted image 20241215140551.png",
+    "Images/Pasted image 20241215151714.png",
+    "Images/Pasted image 20241215151741.png",
+    "Images/Pasted image 20241215152300.png",
+    "Images/Pasted image 20241215162433.png",
+    "Images/Pasted image 20241215164914.png",
+    "Images/Pasted image 20241215165018.png",
+    "Images/Pasted image 20241215165038.png",
+    "Images/Pasted image 20241215165249.png",
+    "Images/Pasted image 20241215170239.png",
+    "Images/Pasted image 20241215194301.png",
+    "Images/Pasted image 20241215194600.png",
+    "Images/Pasted image 20241215194658.png",
+    "Images/Pasted image 20241215195936.png",
+    "Images/Pasted image 20241215205045.png",
+    "Images/Pasted image 20241215205109.png",
+    "Images/Pasted image 20241215205126.png",
+    "Images/Pasted image 20241216001433.png",
+    "Images/Pasted image 20241216010451.png",
+    "Images/Pasted image 20241216010616.png",
+    "Images/Pasted image 20241216110120.png",
+    "Images/Pasted image 20241216110252.png",
+    "Images/Pasted image 20241216123551.png",
+    "Images/Pasted image 20241216124107.png",
+    "Images/Pasted image 20241216124943.png",
+    "Images/Pasted image 20241216125532.png",
+    "Images/Pasted image 20241216125739.png",
+    "Images/Pasted image 20241216125845.png",
+    "Images/Pasted image 20241216130513.png",
+    "Images/Pasted image 20241216130706.png",
+    "Images/Pasted image 20241216130746.png",
+    "Images/Pasted image 20241216130828.png",
+    "Images/Pasted image 20241216131101.png",
+    "Images/Pasted image 20241216131816.png",
+    "Images/Pasted image 20241216132055.png",
+    "Images/Pasted image 20241216132149.png",
+    "Images/Pasted image 20241216132721.png",
+    "Images/Pasted image 20241216132913.png",
+    "lib/media/pasted-image-20241215133255.png",
+    "lib/media/pasted-image-20241215140330.png",
+    "lib/media/pasted-image-20241215140551.png",
+    "lib/media/pasted-image-20241215151714.png",
+    "lib/media/pasted-image-20241215151741.png",
+    "lib/media/pasted-image-20241216110120.png",
+    "lib/media/pasted-image-20241216110252.png",
+    "lib/media/pasted-image-20241214132714.png",
+    "lib/media/pasted-image-20241214132805.png",
+    "lib/media/pasted-image-20241215194658.png",
+    "lib/media/pasted-image-20241215205126.png",
+    "lib/media/pasted-image-20241215195936.png",
+    "lib/media/pasted-image-20241208172806.png",
+    "lib/media/pasted-image-20241216132913.png",
+    "lib/media/pasted-image-20241214190430.png",
+    "lib/media/pasted-image-20241209210504.png",
+    "lib/media/pasted-image-20241209210522.png",
+    "lib/media/pasted-image-20241209162211.png",
+    "lib/media/pasted-image-20241209172948.png",
+    "lib/media/pasted-image-20241216010451.png",
+    "lib/media/pasted-image-20241216010616.png",
+    "lib/media/pasted-image-20241215152300.png",
+    "lib/media/pasted-image-20241215162433.png",
+    "lib/media/pasted-image-20241215165038.png",
+    "lib/media/pasted-image-20241215165018.png",
+    "lib/media/pasted-image-20241215165249.png",
+    "lib/media/pasted-image-20241216001433.png",
+    "lib/media/pasted-image-20241215013755.png",
+    "lib/media/pasted-image-20241214171632.png",
+    "lib/media/pasted-image-20241214170111.png",
+    "lib/media/pasted-image-20241214150115.png",
+    "lib/media/pasted-image-20241214150308.png",
+    "lib/media/pasted-image-20241208154017.png",
+    "lib/media/pasted-image-20241213201433.png",
+    "lib/media/pasted-image-20241214212900.png",
+    "lib/media/pasted-image-20241214220431.png",
+    "lib/media/pasted-image-20241216124943.png",
+    "lib/media/pasted-image-20241216125739.png",
+    "lib/media/pasted-image-20241216125845.png",
+    "lib/media/pasted-image-20241216130513.png",
+    "lib/media/pasted-image-20241216130706.png",
+    "lib/media/pasted-image-20241216130746.png",
+    "lib/media/pasted-image-20241216130828.png",
+    "lib/media/pasted-image-20241216131101.png",
+    "lib/media/pasted-image-20241216131816.png",
+    "lib/media/pasted-image-20241216132055.png",
+    "lib/media/pasted-image-20241216132149.png",
+    "lib/media/pasted-image-20241214170428.png",
+    "lib/media/pasted-image-20241214170457.png",
+    "lib/media/pasted-image-20241216123551.png",
+    "lib/media/pasted-image-20241216124107.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/theme.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "Algorithms II Algorithms/Alternating BFS.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 1984,
+      "exportedPath": "algorithms-ii-algorithms/alternating-bfs.html",
+      "dependencies": []
+    },
+    "Algorithms II Algorithms/Bipartite Maximum-Cardinality Matching.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 560,
+      "exportedPath": "algorithms-ii-algorithms/bipartite-maximum-cardinality-matching.html",
+      "dependencies": []
+    },
+    "Algorithms II Algorithms/Bipartite Maximum-Weight Matching.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 1597,
+      "exportedPath": "algorithms-ii-algorithms/bipartite-maximum-weight-matching.html",
+      "dependencies": []
+    },
+    "Algorithms II Algorithms/Bipartite Minimum-Weight Perfect Matching LP.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 926,
+      "exportedPath": "algorithms-ii-algorithms/bipartite-minimum-weight-perfect-matching-lp.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241215133255.png",
+        "lib/media/pasted-image-20241215140330.png",
+        "lib/media/pasted-image-20241215140551.png",
+        "lib/media/pasted-image-20241215151714.png",
+        "lib/media/pasted-image-20241215151741.png"
+      ]
+    },
+    "Algorithms II Algorithms/Cluster Editing Branching.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 442,
+      "exportedPath": "algorithms-ii-algorithms/cluster-editing-branching.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241216110120.png",
+        "lib/media/pasted-image-20241216110252.png"
+      ]
+    },
+    "Algorithms II Algorithms/Cluster Editing Reduction.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 2759,
+      "exportedPath": "algorithms-ii-algorithms/cluster-editing-reduction.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241214132714.png",
+        "lib/media/pasted-image-20241214132805.png"
+      ]
+    },
+    "Algorithms II Algorithms/Crown Reduction.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 0,
+      "exportedPath": "algorithms-ii-algorithms/crown-reduction.html",
+      "dependencies": []
+    },
+    "Algorithms II Algorithms/Edmonds-Karp.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 240,
+      "exportedPath": "algorithms-ii-algorithms/edmonds-karp.html",
+      "dependencies": []
+    },
+    "Algorithms II Algorithms/Edmonds's Algorithm.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 4219,
+      "exportedPath": "algorithms-ii-algorithms/edmonds's-algorithm.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241215194658.png",
+        "lib/media/pasted-image-20241215205126.png",
+        "lib/media/pasted-image-20241215195936.png"
+      ]
+    },
+    "Algorithms II Algorithms/Ford-Fulkerson.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 1002,
+      "exportedPath": "algorithms-ii-algorithms/ford-fulkerson.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241208172806.png"
+      ]
+    },
+    "Algorithms II Algorithms/General Maximum-Cardinality Matching.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 748,
+      "exportedPath": "algorithms-ii-algorithms/general-maximum-cardinality-matching.html",
+      "dependencies": []
+    },
+    "Algorithms II Algorithms/MAX-SAT Randomized Rounding.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 90,
+      "exportedPath": "algorithms-ii-algorithms/max-sat-randomized-rounding.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241216132913.png"
+      ]
+    },
+    "Algorithms II Algorithms/Maximal matching.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 232,
+      "exportedPath": "algorithms-ii-algorithms/maximal-matching.html",
+      "dependencies": []
+    },
+    "Algorithms II Algorithms/Maximum Independent Set Branching.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 591,
+      "exportedPath": "algorithms-ii-algorithms/maximum-independent-set-branching.html",
+      "dependencies": []
+    },
+    "Algorithms II Algorithms/Preflow-Push.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 5547,
+      "exportedPath": "algorithms-ii-algorithms/preflow-push.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241214190430.png"
+      ]
+    },
+    "Algorithms II Algorithms/Set Cover Dual Fitting.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 1778,
+      "exportedPath": "algorithms-ii-algorithms/set-cover-dual-fitting.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241209210504.png",
+        "lib/media/pasted-image-20241209210522.png"
+      ]
+    },
+    "Algorithms II Algorithms/Set Cover Greedy.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 2189,
+      "exportedPath": "algorithms-ii-algorithms/set-cover-greedy.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241209162211.png",
+        "lib/media/pasted-image-20241209172948.png"
+      ]
+    },
+    "Algorithms II Algorithms/Simplex.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 129,
+      "exportedPath": "algorithms-ii-algorithms/simplex.html",
+      "dependencies": []
+    },
+    "Algorithms II Algorithms/Steiner Tree DP.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 1274,
+      "exportedPath": "algorithms-ii-algorithms/steiner-tree-dp.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241216010451.png",
+        "lib/media/pasted-image-20241216010616.png"
+      ]
+    },
+    "Algorithms II Algorithms/Steiner Tree Simple.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 349,
+      "exportedPath": "algorithms-ii-algorithms/steiner-tree-simple.html",
+      "dependencies": []
+    },
+    "Algorithms II Algorithms/The Hungarian Algorithm.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 4309,
+      "exportedPath": "algorithms-ii-algorithms/the-hungarian-algorithm.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241215152300.png",
+        "lib/media/pasted-image-20241215162433.png",
+        "lib/media/pasted-image-20241215165038.png",
+        "lib/media/pasted-image-20241215165018.png",
+        "lib/media/pasted-image-20241215165249.png"
+      ]
+    },
+    "Algorithms II Algorithms/Travelling Salesman Dynamic Programming.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 1236,
+      "exportedPath": "algorithms-ii-algorithms/travelling-salesman-dynamic-programming.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241216001433.png"
+      ]
+    },
+    "Algorithms II Algorithms/Vertex Cover 2-Approximation.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 328,
+      "exportedPath": "algorithms-ii-algorithms/vertex-cover-2-approximation.html",
+      "dependencies": []
+    },
+    "Algorithms II Algorithms/Vertex Cover Branching.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 917,
+      "exportedPath": "algorithms-ii-algorithms/vertex-cover-branching.html",
+      "dependencies": []
+    },
+    "Algorithms II Algorithms/Vertex Cover Branching Better.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 1089,
+      "exportedPath": "algorithms-ii-algorithms/vertex-cover-branching-better.html",
+      "dependencies": []
+    },
+    "Algorithms II Algorithms/Vertex Cover Crown Reduction.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 1584,
+      "exportedPath": "algorithms-ii-algorithms/vertex-cover-crown-reduction.html",
+      "dependencies": []
+    },
+    "Algorithms II Algorithms/Vertex Cover Exponential.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 1212,
+      "exportedPath": "algorithms-ii-algorithms/vertex-cover-exponential.html",
+      "dependencies": []
+    },
+    "Algorithms II Algorithms/Vertex Cover Reduction.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 1101,
+      "exportedPath": "algorithms-ii-algorithms/vertex-cover-reduction.html",
+      "dependencies": []
+    },
+    "Algorithms II Assignments/Assignment 1 Summative.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 14194,
+      "exportedPath": "algorithms-ii-assignments/assignment-1-summative.html",
+      "dependencies": []
+    },
+    "Algorithms II Assignments/Assignment 3 Summative.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 25940,
+      "exportedPath": "algorithms-ii-assignments/assignment-3-summative.html",
+      "dependencies": []
+    },
+    "Algorithms II Assignments/Assignment 4 Summative.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 12253,
+      "exportedPath": "algorithms-ii-assignments/assignment-4-summative.html",
+      "dependencies": []
+    },
+    "Algorithms II Assignments/Assignment 6 Summative.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 5999,
+      "exportedPath": "algorithms-ii-assignments/assignment-6-summative.html",
+      "dependencies": []
+    },
+    "Algorithms II Assignments/Assignment 7 Summative.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 11491,
+      "exportedPath": "algorithms-ii-assignments/assignment-7-summative.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Alternating Forest.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 466,
+      "exportedPath": "algorithms-ii-concepts/alternating-forest.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241215013755.png"
+      ]
+    },
+    "Algorithms II Concepts/Approximation.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 433,
+      "exportedPath": "algorithms-ii-concepts/approximation.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Augmenting Path.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 280,
+      "exportedPath": "algorithms-ii-concepts/augmenting-path.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Basic Feasible Solution.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 220,
+      "exportedPath": "algorithms-ii-concepts/basic-feasible-solution.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241214171632.png"
+      ]
+    },
+    "Algorithms II Concepts/Bipartite.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 163,
+      "exportedPath": "algorithms-ii-concepts/bipartite.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Branching.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 864,
+      "exportedPath": "algorithms-ii-concepts/branching.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Branching number.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 304,
+      "exportedPath": "algorithms-ii-concepts/branching-number.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Branching vector.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 161,
+      "exportedPath": "algorithms-ii-concepts/branching-vector.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Canonical form.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 122,
+      "exportedPath": "algorithms-ii-concepts/canonical-form.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241214170111.png"
+      ]
+    },
+    "Algorithms II Concepts/Clique.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 48,
+      "exportedPath": "algorithms-ii-concepts/clique.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Cluster Editing.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 147,
+      "exportedPath": "algorithms-ii-concepts/cluster-editing.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Combining Recursive Calls.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 51,
+      "exportedPath": "algorithms-ii-concepts/combining-recursive-calls.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Complementary Slackness.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 1806,
+      "exportedPath": "algorithms-ii-concepts/complementary-slackness.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Complete Bipartite Graph.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 131,
+      "exportedPath": "algorithms-ii-concepts/complete-bipartite-graph.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Crown.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 1025,
+      "exportedPath": "algorithms-ii-concepts/crown.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241214150115.png",
+        "lib/media/pasted-image-20241214150308.png"
+      ]
+    },
+    "Algorithms II Concepts/Depth-Bounded Search.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 209,
+      "exportedPath": "algorithms-ii-concepts/depth-bounded-search.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Derandomization.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 96,
+      "exportedPath": "algorithms-ii-concepts/derandomization.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Dual.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 407,
+      "exportedPath": "algorithms-ii-concepts/dual.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241208154017.png"
+      ]
+    },
+    "Algorithms II Concepts/Dual Fitting.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 303,
+      "exportedPath": "algorithms-ii-concepts/dual-fitting.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Dynamic Programming.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 651,
+      "exportedPath": "algorithms-ii-concepts/dynamic-programming.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Exponential.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 408,
+      "exportedPath": "algorithms-ii-concepts/exponential.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Extreme Point Solution.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 347,
+      "exportedPath": "algorithms-ii-concepts/extreme-point-solution.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Family of Tight Inputs.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 648,
+      "exportedPath": "algorithms-ii-concepts/family-of-tight-inputs.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/FPT.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 244,
+      "exportedPath": "algorithms-ii-concepts/fpt.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Half-integrality.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 203,
+      "exportedPath": "algorithms-ii-concepts/half-integrality.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Hardness parameter.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 122,
+      "exportedPath": "algorithms-ii-concepts/hardness-parameter.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Kernelization.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 565,
+      "exportedPath": "algorithms-ii-concepts/kernelization.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241213201433.png"
+      ]
+    },
+    "Algorithms II Concepts/Layering.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 156,
+      "exportedPath": "algorithms-ii-concepts/layering.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Matching.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 1327,
+      "exportedPath": "algorithms-ii-concepts/matching.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241214212900.png",
+        "lib/media/pasted-image-20241214220431.png"
+      ]
+    },
+    "Algorithms II Concepts/Max-flow Min-cut.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 122,
+      "exportedPath": "algorithms-ii-concepts/max-flow-min-cut.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Maxflow Procedure.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 28,
+      "exportedPath": "algorithms-ii-concepts/maxflow-procedure.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Minimum st-Cut.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 290,
+      "exportedPath": "algorithms-ii-concepts/minimum-st-cut.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Multiway Vertex Cut.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 198,
+      "exportedPath": "algorithms-ii-concepts/multiway-vertex-cut.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241216124943.png"
+      ]
+    },
+    "Algorithms II Concepts/Multiway Vertex Cut Half-Integrality.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 1291,
+      "exportedPath": "algorithms-ii-concepts/multiway-vertex-cut-half-integrality.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241216125739.png",
+        "lib/media/pasted-image-20241216125845.png",
+        "lib/media/pasted-image-20241216130513.png",
+        "lib/media/pasted-image-20241216130706.png",
+        "lib/media/pasted-image-20241216130746.png",
+        "lib/media/pasted-image-20241216130828.png",
+        "lib/media/pasted-image-20241216131101.png"
+      ]
+    },
+    "Algorithms II Concepts/NP-Hard.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 57,
+      "exportedPath": "algorithms-ii-concepts/np-hard.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Parametrized.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 1187,
+      "exportedPath": "algorithms-ii-concepts/parametrized.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Perfect matching.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 135,
+      "exportedPath": "algorithms-ii-concepts/perfect-matching.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Primal-Dual Schema.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 907,
+      "exportedPath": "algorithms-ii-concepts/primal-dual-schema.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Problem kernel.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 86,
+      "exportedPath": "algorithms-ii-concepts/problem-kernel.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Randomization.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 429,
+      "exportedPath": "algorithms-ii-concepts/randomization.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241216131816.png",
+        "lib/media/pasted-image-20241216132055.png",
+        "lib/media/pasted-image-20241216132149.png"
+      ]
+    },
+    "Algorithms II Concepts/Randomized Rounding.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 0,
+      "exportedPath": "algorithms-ii-concepts/randomized-rounding.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Reduction rule.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 181,
+      "exportedPath": "algorithms-ii-concepts/reduction-rule.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Relaxed Complementary Slackness.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 581,
+      "exportedPath": "algorithms-ii-concepts/relaxed-complementary-slackness.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Residual Capacity.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 198,
+      "exportedPath": "algorithms-ii-concepts/residual-capacity.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Residual Network.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 319,
+      "exportedPath": "algorithms-ii-concepts/residual-network.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Set Cover.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 471,
+      "exportedPath": "algorithms-ii-concepts/set-cover.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Standard form.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 171,
+      "exportedPath": "algorithms-ii-concepts/standard-form.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241214170428.png",
+        "lib/media/pasted-image-20241214170457.png"
+      ]
+    },
+    "Algorithms II Concepts/Steiner Tree.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 237,
+      "exportedPath": "algorithms-ii-concepts/steiner-tree.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Strong Duality.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 124,
+      "exportedPath": "algorithms-ii-concepts/strong-duality.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Vertex Cover.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 109,
+      "exportedPath": "algorithms-ii-concepts/vertex-cover.html",
+      "dependencies": []
+    },
+    "Algorithms II Concepts/Vertex Cover Half-Integrality.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 716,
+      "exportedPath": "algorithms-ii-concepts/vertex-cover-half-integrality.html",
+      "dependencies": [
+        "lib/media/pasted-image-20241216123551.png",
+        "lib/media/pasted-image-20241216124107.png"
+      ]
+    },
+    "Algorithms II Concepts/Weak Duality.md": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 172,
+      "exportedPath": "algorithms-ii-concepts/weak-duality.html",
+      "dependencies": []
+    },
+    "Images/IMG_5ECF6969EE00-1.jpeg": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 153486,
+      "exportedPath": "images/img_5ecf6969ee00-1.jpeg",
+      "dependencies": []
+    },
+    "Images/IMG_3645B157588F-1.jpeg": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 57498,
+      "exportedPath": "images/img_3645b157588f-1.jpeg",
+      "dependencies": []
+    },
+    "Images/IMG_E8D9965B2C9E-1.jpeg": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 166030,
+      "exportedPath": "images/img_e8d9965b2c9e-1.jpeg",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240920152734.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 58804,
+      "exportedPath": "images/pasted-image-20240920152734.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240920165444.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 60125,
+      "exportedPath": "images/pasted-image-20240920165444.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240920165511.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 58416,
+      "exportedPath": "images/pasted-image-20240920165511.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240920182631.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 58925,
+      "exportedPath": "images/pasted-image-20240920182631.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240921143618.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 40570,
+      "exportedPath": "images/pasted-image-20240921143618.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240921143733.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 38492,
+      "exportedPath": "images/pasted-image-20240921143733.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240921145420.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 41550,
+      "exportedPath": "images/pasted-image-20240921145420.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240921145551.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 39872,
+      "exportedPath": "images/pasted-image-20240921145551.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240921151324.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 39830,
+      "exportedPath": "images/pasted-image-20240921151324.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240921151427.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 37520,
+      "exportedPath": "images/pasted-image-20240921151427.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240921153850.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 33628,
+      "exportedPath": "images/pasted-image-20240921153850.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240921154432.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 34469,
+      "exportedPath": "images/pasted-image-20240921154432.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240921155020.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 36044,
+      "exportedPath": "images/pasted-image-20240921155020.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240921160750.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 37345,
+      "exportedPath": "images/pasted-image-20240921160750.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240921160817.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 35062,
+      "exportedPath": "images/pasted-image-20240921160817.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240922173845.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 58645,
+      "exportedPath": "images/pasted-image-20240922173845.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240922174200.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 57024,
+      "exportedPath": "images/pasted-image-20240922174200.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240922174946.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 53068,
+      "exportedPath": "images/pasted-image-20240922174946.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240922175133.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 44625,
+      "exportedPath": "images/pasted-image-20240922175133.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240922175242.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 47450,
+      "exportedPath": "images/pasted-image-20240922175242.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240922175648.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 49295,
+      "exportedPath": "images/pasted-image-20240922175648.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20240922175901.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 46416,
+      "exportedPath": "images/pasted-image-20240922175901.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241004153707.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 752979,
+      "exportedPath": "images/pasted-image-20241004153707.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241004153732.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 708057,
+      "exportedPath": "images/pasted-image-20241004153732.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241004153805.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 1640550,
+      "exportedPath": "images/pasted-image-20241004153805.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241004153821.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 1122460,
+      "exportedPath": "images/pasted-image-20241004153821.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241004153845.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 907911,
+      "exportedPath": "images/pasted-image-20241004153845.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241008230303.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 58643,
+      "exportedPath": "images/pasted-image-20241008230303.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241008230608.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 59579,
+      "exportedPath": "images/pasted-image-20241008230608.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241008232152.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 51650,
+      "exportedPath": "images/pasted-image-20241008232152.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241013120544.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 275361,
+      "exportedPath": "images/pasted-image-20241013120544.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241021231104.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 59281,
+      "exportedPath": "images/pasted-image-20241021231104.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241206191101.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 76250,
+      "exportedPath": "images/pasted-image-20241206191101.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241206192136.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 47457,
+      "exportedPath": "images/pasted-image-20241206192136.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241206194329.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 967935,
+      "exportedPath": "images/pasted-image-20241206194329.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241206194423.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 564248,
+      "exportedPath": "images/pasted-image-20241206194423.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241206194440.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 563648,
+      "exportedPath": "images/pasted-image-20241206194440.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241207200219.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 14222,
+      "exportedPath": "images/pasted-image-20241207200219.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241207200356.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 14222,
+      "exportedPath": "images/pasted-image-20241207200356.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241207200401.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 13203,
+      "exportedPath": "images/pasted-image-20241207200401.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241207200603.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 51313,
+      "exportedPath": "images/pasted-image-20241207200603.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241208154017.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 73128,
+      "exportedPath": "images/pasted-image-20241208154017.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241208172806.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 26448,
+      "exportedPath": "images/pasted-image-20241208172806.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241209162211.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 83991,
+      "exportedPath": "images/pasted-image-20241209162211.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241209172943.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 31730,
+      "exportedPath": "images/pasted-image-20241209172943.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241209172948.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 31730,
+      "exportedPath": "images/pasted-image-20241209172948.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241209173032.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 31730,
+      "exportedPath": "images/pasted-image-20241209173032.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241209210436.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 41084,
+      "exportedPath": "images/pasted-image-20241209210436.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241209210504.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 38531,
+      "exportedPath": "images/pasted-image-20241209210504.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241209210522.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 39778,
+      "exportedPath": "images/pasted-image-20241209210522.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241211133453.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 20631,
+      "exportedPath": "images/pasted-image-20241211133453.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241211134058.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 25852,
+      "exportedPath": "images/pasted-image-20241211134058.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241211134346.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 36859,
+      "exportedPath": "images/pasted-image-20241211134346.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241211134858.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 52562,
+      "exportedPath": "images/pasted-image-20241211134858.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241211135331.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 18233,
+      "exportedPath": "images/pasted-image-20241211135331.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241211135347.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 11210,
+      "exportedPath": "images/pasted-image-20241211135347.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241211135402.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 10593,
+      "exportedPath": "images/pasted-image-20241211135402.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241211140123.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 15089,
+      "exportedPath": "images/pasted-image-20241211140123.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241211220741.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 284415,
+      "exportedPath": "images/pasted-image-20241211220741.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241211220752.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 80488,
+      "exportedPath": "images/pasted-image-20241211220752.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241212120634.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 356412,
+      "exportedPath": "images/pasted-image-20241212120634.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241212120835.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 329034,
+      "exportedPath": "images/pasted-image-20241212120835.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241212124614.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 41079,
+      "exportedPath": "images/pasted-image-20241212124614.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241212151117.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 146140,
+      "exportedPath": "images/pasted-image-20241212151117.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241212214719.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 169468,
+      "exportedPath": "images/pasted-image-20241212214719.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241212214736.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 178777,
+      "exportedPath": "images/pasted-image-20241212214736.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241212214748.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 59045,
+      "exportedPath": "images/pasted-image-20241212214748.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241213000036.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 540428,
+      "exportedPath": "images/pasted-image-20241213000036.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241213000055.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 522973,
+      "exportedPath": "images/pasted-image-20241213000055.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241213000119.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 517942,
+      "exportedPath": "images/pasted-image-20241213000119.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241213130400.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 159897,
+      "exportedPath": "images/pasted-image-20241213130400.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241213130413.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 60560,
+      "exportedPath": "images/pasted-image-20241213130413.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241213131832.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 151270,
+      "exportedPath": "images/pasted-image-20241213131832.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241213131850.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 138875,
+      "exportedPath": "images/pasted-image-20241213131850.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241213145245.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 193381,
+      "exportedPath": "images/pasted-image-20241213145245.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241213201433.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 248124,
+      "exportedPath": "images/pasted-image-20241213201433.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241213211133.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 248124,
+      "exportedPath": "images/pasted-image-20241213211133.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241214132714.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 205293,
+      "exportedPath": "images/pasted-image-20241214132714.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241214132719.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 205293,
+      "exportedPath": "images/pasted-image-20241214132719.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241214132737.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 217502,
+      "exportedPath": "images/pasted-image-20241214132737.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241214132805.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 241941,
+      "exportedPath": "images/pasted-image-20241214132805.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241214142705.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 17162,
+      "exportedPath": "images/pasted-image-20241214142705.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241214150115.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 247205,
+      "exportedPath": "images/pasted-image-20241214150115.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241214150132.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 299333,
+      "exportedPath": "images/pasted-image-20241214150132.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241214150308.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 271966,
+      "exportedPath": "images/pasted-image-20241214150308.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241214152505.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 271966,
+      "exportedPath": "images/pasted-image-20241214152505.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241214154745.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 271966,
+      "exportedPath": "images/pasted-image-20241214154745.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241214170111.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 23771,
+      "exportedPath": "images/pasted-image-20241214170111.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241214170428.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 27853,
+      "exportedPath": "images/pasted-image-20241214170428.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241214170457.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 92711,
+      "exportedPath": "images/pasted-image-20241214170457.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241214171608.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 42631,
+      "exportedPath": "images/pasted-image-20241214171608.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241214171632.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 21440,
+      "exportedPath": "images/pasted-image-20241214171632.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241214190430.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 60798,
+      "exportedPath": "images/pasted-image-20241214190430.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241214212900.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 728793,
+      "exportedPath": "images/pasted-image-20241214212900.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241214220431.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 343510,
+      "exportedPath": "images/pasted-image-20241214220431.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241215013755.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 3251231,
+      "exportedPath": "images/pasted-image-20241215013755.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241215133255.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 266019,
+      "exportedPath": "images/pasted-image-20241215133255.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241215140330.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 166102,
+      "exportedPath": "images/pasted-image-20241215140330.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241215140551.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 71448,
+      "exportedPath": "images/pasted-image-20241215140551.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241215151714.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 41701,
+      "exportedPath": "images/pasted-image-20241215151714.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241215151741.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 12775,
+      "exportedPath": "images/pasted-image-20241215151741.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241215152300.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 63737,
+      "exportedPath": "images/pasted-image-20241215152300.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241215162433.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 229816,
+      "exportedPath": "images/pasted-image-20241215162433.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241215164914.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 27649,
+      "exportedPath": "images/pasted-image-20241215164914.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241215165018.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 41994,
+      "exportedPath": "images/pasted-image-20241215165018.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241215165038.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 32929,
+      "exportedPath": "images/pasted-image-20241215165038.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241215165249.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 16778,
+      "exportedPath": "images/pasted-image-20241215165249.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241215170239.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 16778,
+      "exportedPath": "images/pasted-image-20241215170239.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241215194301.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 1908189,
+      "exportedPath": "images/pasted-image-20241215194301.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241215194600.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 249767,
+      "exportedPath": "images/pasted-image-20241215194600.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241215194658.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 291241,
+      "exportedPath": "images/pasted-image-20241215194658.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241215195936.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 29910,
+      "exportedPath": "images/pasted-image-20241215195936.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241215205045.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 1300297,
+      "exportedPath": "images/pasted-image-20241215205045.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241215205109.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 625108,
+      "exportedPath": "images/pasted-image-20241215205109.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241215205126.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 316825,
+      "exportedPath": "images/pasted-image-20241215205126.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241216001433.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 438002,
+      "exportedPath": "images/pasted-image-20241216001433.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241216010451.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 168580,
+      "exportedPath": "images/pasted-image-20241216010451.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241216010616.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 174685,
+      "exportedPath": "images/pasted-image-20241216010616.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241216110120.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 20189,
+      "exportedPath": "images/pasted-image-20241216110120.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241216110252.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 72280,
+      "exportedPath": "images/pasted-image-20241216110252.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241216123551.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 103168,
+      "exportedPath": "images/pasted-image-20241216123551.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241216124107.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 58902,
+      "exportedPath": "images/pasted-image-20241216124107.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241216124943.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 63176,
+      "exportedPath": "images/pasted-image-20241216124943.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241216125532.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 94664,
+      "exportedPath": "images/pasted-image-20241216125532.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241216125739.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 55470,
+      "exportedPath": "images/pasted-image-20241216125739.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241216125845.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 21485,
+      "exportedPath": "images/pasted-image-20241216125845.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241216130513.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 84429,
+      "exportedPath": "images/pasted-image-20241216130513.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241216130706.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 55916,
+      "exportedPath": "images/pasted-image-20241216130706.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241216130746.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 52531,
+      "exportedPath": "images/pasted-image-20241216130746.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241216130828.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 49355,
+      "exportedPath": "images/pasted-image-20241216130828.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241216131101.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 27173,
+      "exportedPath": "images/pasted-image-20241216131101.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241216131816.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 201404,
+      "exportedPath": "images/pasted-image-20241216131816.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241216132055.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 108846,
+      "exportedPath": "images/pasted-image-20241216132055.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241216132149.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 176055,
+      "exportedPath": "images/pasted-image-20241216132149.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241216132721.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 45363,
+      "exportedPath": "images/pasted-image-20241216132721.png",
+      "dependencies": []
+    },
+    "Images/Pasted image 20241216132913.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 64597,
+      "exportedPath": "images/pasted-image-20241216132913.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241215133255.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 266019,
+      "exportedPath": "lib/media/pasted-image-20241215133255.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241215140330.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 166102,
+      "exportedPath": "lib/media/pasted-image-20241215140330.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241215140551.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 71448,
+      "exportedPath": "lib/media/pasted-image-20241215140551.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241215151714.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 41701,
+      "exportedPath": "lib/media/pasted-image-20241215151714.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241215151741.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 12775,
+      "exportedPath": "lib/media/pasted-image-20241215151741.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241216110120.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 20189,
+      "exportedPath": "lib/media/pasted-image-20241216110120.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241216110252.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 72280,
+      "exportedPath": "lib/media/pasted-image-20241216110252.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241214132714.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 205293,
+      "exportedPath": "lib/media/pasted-image-20241214132714.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241214132805.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 241941,
+      "exportedPath": "lib/media/pasted-image-20241214132805.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241215194658.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 291241,
+      "exportedPath": "lib/media/pasted-image-20241215194658.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241215205126.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 316825,
+      "exportedPath": "lib/media/pasted-image-20241215205126.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241215195936.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 29910,
+      "exportedPath": "lib/media/pasted-image-20241215195936.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241208172806.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 26448,
+      "exportedPath": "lib/media/pasted-image-20241208172806.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241216132913.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 64597,
+      "exportedPath": "lib/media/pasted-image-20241216132913.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241214190430.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 60798,
+      "exportedPath": "lib/media/pasted-image-20241214190430.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241209210504.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 38531,
+      "exportedPath": "lib/media/pasted-image-20241209210504.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241209210522.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 39778,
+      "exportedPath": "lib/media/pasted-image-20241209210522.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241209162211.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 83991,
+      "exportedPath": "lib/media/pasted-image-20241209162211.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241209172948.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 31730,
+      "exportedPath": "lib/media/pasted-image-20241209172948.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241216010451.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 168580,
+      "exportedPath": "lib/media/pasted-image-20241216010451.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241216010616.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 174685,
+      "exportedPath": "lib/media/pasted-image-20241216010616.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241215152300.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 63737,
+      "exportedPath": "lib/media/pasted-image-20241215152300.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241215162433.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 229816,
+      "exportedPath": "lib/media/pasted-image-20241215162433.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241215165038.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 32929,
+      "exportedPath": "lib/media/pasted-image-20241215165038.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241215165018.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 41994,
+      "exportedPath": "lib/media/pasted-image-20241215165018.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241215165249.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 16778,
+      "exportedPath": "lib/media/pasted-image-20241215165249.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241216001433.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 438002,
+      "exportedPath": "lib/media/pasted-image-20241216001433.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241215013755.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 3251231,
+      "exportedPath": "lib/media/pasted-image-20241215013755.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241214171632.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 21440,
+      "exportedPath": "lib/media/pasted-image-20241214171632.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241214170111.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 23771,
+      "exportedPath": "lib/media/pasted-image-20241214170111.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241214150115.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 247205,
+      "exportedPath": "lib/media/pasted-image-20241214150115.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241214150308.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 271966,
+      "exportedPath": "lib/media/pasted-image-20241214150308.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241208154017.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 73128,
+      "exportedPath": "lib/media/pasted-image-20241208154017.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241213201433.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 248124,
+      "exportedPath": "lib/media/pasted-image-20241213201433.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241214212900.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 728793,
+      "exportedPath": "lib/media/pasted-image-20241214212900.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241214220431.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 343510,
+      "exportedPath": "lib/media/pasted-image-20241214220431.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241216124943.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 63176,
+      "exportedPath": "lib/media/pasted-image-20241216124943.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241216125739.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 55470,
+      "exportedPath": "lib/media/pasted-image-20241216125739.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241216125845.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 21485,
+      "exportedPath": "lib/media/pasted-image-20241216125845.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241216130513.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 84429,
+      "exportedPath": "lib/media/pasted-image-20241216130513.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241216130706.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 55916,
+      "exportedPath": "lib/media/pasted-image-20241216130706.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241216130746.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 52531,
+      "exportedPath": "lib/media/pasted-image-20241216130746.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241216130828.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 49355,
+      "exportedPath": "lib/media/pasted-image-20241216130828.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241216131101.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 27173,
+      "exportedPath": "lib/media/pasted-image-20241216131101.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241216131816.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 201404,
+      "exportedPath": "lib/media/pasted-image-20241216131816.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241216132055.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 108846,
+      "exportedPath": "lib/media/pasted-image-20241216132055.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241216132149.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 176055,
+      "exportedPath": "lib/media/pasted-image-20241216132149.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241214170428.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 27853,
+      "exportedPath": "lib/media/pasted-image-20241214170428.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241214170457.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 92711,
+      "exportedPath": "lib/media/pasted-image-20241214170457.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241216123551.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 103168,
+      "exportedPath": "lib/media/pasted-image-20241216123551.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241216124107.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 58902,
+      "exportedPath": "lib/media/pasted-image-20241216124107.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 86986,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 8565,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 131118,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/theme.css": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 587331,
+      "exportedPath": "lib/styles/theme.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 327,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1735927438638,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
